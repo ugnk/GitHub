@@ -11,6 +11,6 @@ GitHubにファイルを上げるテキスト
 ##テスト小見出し(h2)
 例えばサンプルデモサイトのアドレスを貼ります。
 
-[Sample Demo] (https://cloud.google.com/compute/docs/signup?_ga=1.47397223.1751922893.1430542386)]
+[Sample Demo] (https://cloud.google.com/compute/docs/signup?_ga=1.47397223.1751922893.1430542386)
 
 end..
